@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="6 4 88 88">
+<defs>
+<filter id="glow" filterUnits="userSpaceOnUse" x="0" y="0" width="100" height="100">
+<feGaussianBlur stdDeviation="3.2"/>
+</filter>
+<g id="s" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M30 18 H38.5 V25 H45.5 V18 H54.5 V25 H61.5 V18 H70 V32 H30 Z"/><path d="M36 32 L38 70 M64 32 L62 70"/><path d="M50 42 V54"/><path d="M32 70 H68 V78 H32 Z"/><path d="M27 85 H73"/></g>
+</defs>
+<use href="#s" stroke="#2F8DFF" stroke-width="7" filter="url(#glow)" opacity="0.9"/>
+<use href="#s" stroke="#7FD3FF" stroke-width="3.4"/>
+<use href="#s" stroke="#F1FAFF" stroke-width="1.1"/>
+</svg>
