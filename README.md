@@ -8,6 +8,8 @@ Play it here: https://centcodergit.github.io/chessgame/
 
 Start
 
+**IMPORTANT: When wanting to move a piece, click on the piece and then click in the dot, don’t drag the piece on the dot! The system is a bit sensitive so if please aim at the center of the dot. Thank you!**
+
 Open the link above and click a piece. That's it.
 
 If you'd rather run it off your own computer, there's nothing to install. Download the folder and double-click index.html.
